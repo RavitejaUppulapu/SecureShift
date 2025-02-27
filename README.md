@@ -1,4 +1,4 @@
-# Encryption-Decryption Program
+# SecureShift Encryption-Decryption Program
 
 ## Description
 
